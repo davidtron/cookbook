@@ -1,0 +1,12 @@
+# Compiled source
+
+*.class
+target
+*.iml
+*.ipr
+*.iws
+
+# Log files
+*.log
+
+
